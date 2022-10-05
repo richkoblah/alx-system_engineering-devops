@@ -1,1 +1,2 @@
-This command script takes you home DIR
+#!/bin/bash
+This command script cd ~ take you home DIR
