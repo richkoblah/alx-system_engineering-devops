@@ -1,1 +1,1 @@
-This list file in long format
+List hidden files
