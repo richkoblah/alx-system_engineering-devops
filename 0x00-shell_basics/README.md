@@ -1,1 +1,1 @@
-Script creates a directory
+move betty file to another DIR
