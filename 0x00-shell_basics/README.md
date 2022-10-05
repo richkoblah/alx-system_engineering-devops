@@ -1,1 +1,1 @@
-Delete Betty
+delete a dir in tmp
