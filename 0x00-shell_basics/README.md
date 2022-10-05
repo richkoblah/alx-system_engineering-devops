@@ -1,1 +1,1 @@
-List file in long format and add IDs
+Script creates a directory
