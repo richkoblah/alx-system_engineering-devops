@@ -1,1 +1,1 @@
-move betty file to another DIR
+Delete Betty
