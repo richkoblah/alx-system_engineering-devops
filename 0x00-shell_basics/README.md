@@ -1,1 +1,1 @@
-This command script print list of files
+This list file in long format
