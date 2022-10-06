@@ -1,1 +1,1 @@
-set reference mode
+execute subdirectories
