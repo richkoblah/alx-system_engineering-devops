@@ -1,1 +1,1 @@
-no OG permission
+set mode
