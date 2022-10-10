@@ -1,1 +1,1 @@
-print a file
+display smiley
