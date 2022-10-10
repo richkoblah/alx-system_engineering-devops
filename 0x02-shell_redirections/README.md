@@ -1,1 +1,1 @@
-Acrostic
+acrostic
