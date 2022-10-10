@@ -1,1 +1,1 @@
-display smiley
+display content of two files
