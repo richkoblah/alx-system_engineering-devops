@@ -1,1 +1,1 @@
-Acrostic is a poem
+Acrostic
