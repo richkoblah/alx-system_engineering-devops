@@ -1,1 +1,1 @@
-No javascript
+count your directories
