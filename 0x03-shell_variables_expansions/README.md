@@ -1,1 +1,1 @@
-addition knowledge
+division rule
