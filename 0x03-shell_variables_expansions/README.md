@@ -1,1 +1,1 @@
-local variables
+new variables
