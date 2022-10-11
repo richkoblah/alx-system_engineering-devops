@@ -1,1 +1,1 @@
-new variables
+new global
