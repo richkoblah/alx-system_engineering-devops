@@ -1,1 +1,1 @@
-decimal number
+two decimal places
