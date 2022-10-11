@@ -1,1 +1,1 @@
-two decimal places
+decimal to hexadecimal
