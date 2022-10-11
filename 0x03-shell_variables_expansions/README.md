@@ -1,1 +1,1 @@
-division rule
+love quotes
